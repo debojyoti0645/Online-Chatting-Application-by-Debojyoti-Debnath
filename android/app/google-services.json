@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933658034495",
+    "project_id": "intouch-26342",
+    "storage_bucket": "intouch-26342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933658034495:android:14b75f14be72fb86b0938a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6adlfPP15AuMcoUydLZ6EZ4OC0dREGPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
